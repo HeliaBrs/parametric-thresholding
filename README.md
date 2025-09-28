@@ -24,6 +24,8 @@ To run this project, install the following Python libraries:
  numpy . matplotlib . opencv-python . pandas . notebook . ipykernel
 
 
-##based on studies on 
+## based on studies on 
 SIGNAL ANALYSIS TIME, FREQUENCY, SCALE, AND STRUCTURE      By: Ronald L. Allen Duncan W. Mills
 4.2 Tresholding. 
+
+## Description persian movies : @SignnalSystemParametricTresholdi
